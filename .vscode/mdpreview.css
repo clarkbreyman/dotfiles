@@ -4,7 +4,7 @@ body {
   font-size: 20px; line-height: 1.65;
   letter-spacing: 0.03em; word-spacing: 0.08em;
   hyphens: none;
-  color: #1F1F1F !important; background-color: #F7F4ED !important;
+  color: #1F1F1F; background-color: #F7F4ED;
 }
 p, li { margin-block: 0.9em; }
 code, pre { letter-spacing: 0; }
