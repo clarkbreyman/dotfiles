@@ -1,6 +1,6 @@
 body {
   max-width: 62ch; margin: 0 auto; padding: 2rem 1rem;
-  font-family: "Atkinson Hyperlegible", serif;
+  font-family: "Atkinson Hyperlegible", Lexend, Charter, serif;
   font-size: 20px; line-height: 1.65;
   letter-spacing: 0.03em; word-spacing: 0.08em;
   hyphens: none;
